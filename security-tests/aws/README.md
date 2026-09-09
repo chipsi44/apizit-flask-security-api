@@ -40,4 +40,3 @@ socket et ne constituent pas une deadline globale de résolution DNS.
 Les tests CI remplacent le SDK. Ne pas activer STS dans une session de développeur
 munie de ses credentials habituels. Account/Arn/UserId sont non secrets mais ne
 doivent pas être publiés dans les preuves de campagne sans nécessité.
-
